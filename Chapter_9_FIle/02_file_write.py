@@ -1,4 +1,4 @@
-st = "Hey Inamul you are amazing"
+st = "Hey Inamul you are amazing with indranil"
 
 f= open("myfile.txt","w")
 

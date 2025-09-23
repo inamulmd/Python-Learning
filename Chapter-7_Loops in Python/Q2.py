@@ -1,4 +1,4 @@
-#wap to program to  greet all the person satored in :l: and which starts wiyh S
+#wap to program to  greet all the person stored in :l: and which starts wiyh S
 l = ["harry", "Soham","Sachin", "Rahul"]
 
 for name in l :
